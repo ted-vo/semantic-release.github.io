@@ -8,5 +8,35 @@
     "Type": "provider",
     "Name": "gitlab",
     "Repo": "go-semantic-release/provider-gitlab"
+  },
+  {
+    "Type": "changelog-generator",
+    "Name": "default",
+    "Repo": "go-semantic-release/changelog-generator-default"
+  },
+  {
+    "Type": "commit-analyzer",
+    "Name": "default",
+    "Repo": "go-semantic-release/commit-analyzer-cz"
+  },
+  {
+    "Type": "condition",
+    "Name": "default",
+    "Repo": "go-semantic-release/condition-default"
+  },
+  {
+    "Type": "condition",
+    "Name": "github",
+    "Repo": "go-semantic-release/condition-github"
+  },
+  {
+    "Type": "condition",
+    "Name": "gitlab",
+    "Repo": "go-semantic-release/condition-gitlab"
+  },
+  {
+    "Type": "files-updater",
+    "Name": "npm",
+    "Repo": "go-semantic-release/files-updater-npm"
   }
 ]
