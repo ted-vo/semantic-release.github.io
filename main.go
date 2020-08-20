@@ -5,12 +5,12 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"path"
 	"strings"
 	"time"
 
+	"github.com/Masterminds/semver/v3"
 	"github.com/google/go-github/v32/github"
 	"golang.org/x/oauth2"
 )
@@ -22,6 +22,7 @@ func checkError(err error) {
 }
 
 type PluginRelease struct {
+	CreatedAt time.Time
 }
 
 type Plugin struct {
@@ -39,11 +40,18 @@ type Plugins struct {
 const DestDir = "./plugin-index/api/v1/"
 
 func writePlugins(path string, plugins *Plugins) error {
-	data, err := json.Marshal(plugins)
+	file, err := os.OpenFile(path, os.O_CREATE|os.O_WRONLY, 0755)
 	if err != nil {
 		return err
 	}
-	return ioutil.WriteFile(path, data, 0755)
+	defer file.Close()
+
+	enc := json.NewEncoder(file)
+	enc.SetIndent("", "  ")
+	if err := enc.Encode(plugins); err != nil {
+		return err
+	}
+	return nil
 }
 
 type pluginListPlugin struct {
@@ -78,6 +86,29 @@ func init() {
 	)))
 }
 
+func getPluginReleases(owner, repo string) (map[string]*PluginRelease, error) {
+	releases, _, err := ghClient.Repositories.ListReleases(context.Background(), owner, repo, &github.ListOptions{PerPage: 100})
+	if err != nil {
+		return nil, err
+	}
+	ret := make(map[string]*PluginRelease)
+	for _, r := range releases {
+		if r.GetDraft() {
+			continue
+		}
+		v, err := semver.NewVersion(r.GetTagName())
+		if err != nil {
+			continue
+		}
+		vStr := v.String()
+		ret[vStr] = &PluginRelease{
+			CreatedAt: r.GetCreatedAt().Time,
+		}
+	}
+
+	return ret, nil
+}
+
 func transformPlugin(p *pluginListPlugin) (*Plugin, error) {
 	fmt.Printf("transforming %s (%s-%s)\n", p.Repo, p.Type, p.Name)
 	split := strings.SplitN(p.Repo, "/", 2)
@@ -87,15 +118,24 @@ func transformPlugin(p *pluginListPlugin) (*Plugin, error) {
 	owner, repo := split[0], split[1]
 
 	release, _, err := ghClient.Repositories.GetLatestRelease(context.Background(), owner, repo)
-
 	if err != nil {
 		return nil, err
 	}
+	lrVersion, err := semver.NewVersion(release.GetTagName())
+	if err != nil {
+		return nil, err
+	}
+
+	vers, err := getPluginReleases(owner, repo)
+	if err != nil {
+		return nil, err
+	}
+
 	return &Plugin{
 		Type:          strings.ToLower(p.Type),
 		Name:          strings.ToLower(p.Name),
-		LatestRelease: release.GetTagName(),
-		Versions:      nil,
+		LatestRelease: lrVersion.String(),
+		Versions:      vers,
 	}, nil
 }
 
