@@ -5,8 +5,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"io/ioutil"
+	"net/http"
 	"os"
 	"path"
+	"regexp"
 	"strings"
 	"time"
 
@@ -15,14 +18,25 @@ import (
 	"golang.org/x/oauth2"
 )
 
+var osArchRe = regexp.MustCompile("(?i)(aix|android|darwin|dragonfly|freebsd|hurd|illumos|js|linux|nacl|netbsd|openbsd|plan9|solaris|windows|zos)(_|-)(386|amd64|amd64p32|arm|armbe|arm64|arm64be|ppc64|ppc64le|mips|mipsle|mips64|mips64le|mips64p32|mips64p32le|ppc|riscv|riscv64|s390|s390x|sparc|sparc64|wasm)")
+
 func checkError(err error) {
 	if err != nil {
 		panic(err)
 	}
 }
 
+type PluginAsset struct {
+	FileName string
+	URL      string
+	OS       string
+	Arch     string
+	Checksum string
+}
+
 type PluginRelease struct {
 	CreatedAt time.Time
+	Assets    []*PluginAsset
 }
 
 type Plugin struct {
@@ -86,11 +100,81 @@ func init() {
 	)))
 }
 
+func fetchChecksumFile(url string) map[string]string {
+	fmt.Printf("fetching checksums %s\n", url)
+	ret := make(map[string]string)
+	res, err := http.Get(url)
+	if err != nil {
+		fmt.Println(err)
+		return nil
+	}
+	checksums, err := ioutil.ReadAll(res.Body)
+	res.Body.Close()
+	if err != nil {
+		fmt.Println(err)
+		return nil
+	}
+	for _, l := range strings.Split(string(checksums), "\n") {
+		sl := strings.Split(l, " ")
+		if len(sl) < 3 {
+			continue
+		}
+		ret[strings.ToLower(sl[2])] = sl[0]
+	}
+	return ret
+}
+
+func getPluginAssets(gha []*github.ReleaseAsset) []*PluginAsset {
+	ret := make([]*PluginAsset, 0)
+	var checksumMap map[string]string = nil
+	for _, asset := range gha {
+		fn := asset.GetName()
+		if checksumMap == nil && asset.GetSize() <= 4096 && strings.Contains(strings.ToLower(fn), "checksums.txt") {
+			checksumMap = fetchChecksumFile(asset.GetBrowserDownloadURL())
+			continue
+		}
+		ret = append(ret, &PluginAsset{
+			FileName: fn,
+			URL:      asset.GetBrowserDownloadURL(),
+		})
+	}
+	for i, pa := range ret {
+		if checksumMap != nil {
+			ret[i].Checksum = checksumMap[strings.ToLower(ret[i].FileName)]
+		}
+		osArch := osArchRe.FindAllStringSubmatch(pa.FileName, -1)
+		if len(osArch) < 1 || len(osArch[0]) < 4 {
+			continue
+		}
+		ret[i].OS = strings.ToLower(osArch[0][1])
+		ret[i].Arch = strings.ToLower(osArch[0][3])
+	}
+	return ret
+}
+
+func getAllGitHubReleases(owner, repo string) ([]*github.RepositoryRelease, error) {
+	ret := make([]*github.RepositoryRelease, 0)
+	opts := &github.ListOptions{Page: 1, PerPage: 100}
+	for {
+		releases, resp, err := ghClient.Repositories.ListReleases(context.Background(), owner, repo, opts)
+		if err != nil {
+			return nil, err
+		}
+		ret = append(ret, releases...)
+		if resp.NextPage == 0 {
+			break
+		}
+		opts.Page = resp.NextPage
+	}
+	return ret, nil
+}
+
 func getPluginReleases(owner, repo string) (map[string]*PluginRelease, error) {
-	releases, _, err := ghClient.Repositories.ListReleases(context.Background(), owner, repo, &github.ListOptions{PerPage: 100})
+	releases, err := getAllGitHubReleases(owner, repo)
 	if err != nil {
 		return nil, err
 	}
+
 	ret := make(map[string]*PluginRelease)
 	for _, r := range releases {
 		if r.GetDraft() {
@@ -103,6 +187,7 @@ func getPluginReleases(owner, repo string) (map[string]*PluginRelease, error) {
 		vStr := v.String()
 		ret[vStr] = &PluginRelease{
 			CreatedAt: r.GetCreatedAt().Time,
+			Assets:    getPluginAssets(r.Assets),
 		}
 	}
 
