@@ -1,0 +1,12 @@
+[
+  {
+    "Type": "provider",
+    "Name": "github",
+    "Repo": "go-semantic-release/provider-github"
+  },
+  {
+    "Type": "provider",
+    "Name": "gitlab",
+    "Repo": "go-semantic-release/provider-gitlab"
+  }
+]
