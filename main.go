@@ -47,13 +47,12 @@ type Plugin struct {
 }
 
 type Plugins struct {
-	LastUpdate time.Time
-	Plugins    []*Plugin
+	Plugins []string
 }
 
 const DestDir = "./plugin-index/api/v1/"
 
-func writePlugins(path string, plugins *Plugins) error {
+func writeJSON(path string, data interface{}) error {
 	file, err := os.OpenFile(path, os.O_CREATE|os.O_WRONLY, 0755)
 	if err != nil {
 		return err
@@ -62,7 +61,7 @@ func writePlugins(path string, plugins *Plugins) error {
 
 	enc := json.NewEncoder(file)
 	enc.SetIndent("", "  ")
-	if err := enc.Encode(plugins); err != nil {
+	if err := enc.Encode(data); err != nil {
 		return err
 	}
 	return nil
@@ -231,9 +230,11 @@ func main() {
 
 	fmt.Println("transforming plugins...")
 	transformedPlugins := make([]*Plugin, len(pList))
+	pluginNames := make([]string, len(pList))
 	for i, p := range pList {
 		tp, err := transformPlugin(p)
 		checkError(err)
+		pluginNames[i] = tp.Type + "-" + tp.Name
 		transformedPlugins[i] = tp
 	}
 
@@ -241,12 +242,21 @@ func main() {
 	checkError(os.RemoveAll("./plugin-index"))
 	checkError(os.MkdirAll(DestDir, 0755))
 
+	plugDir := path.Join(DestDir, "plugins")
+	fmt.Printf("creating %s\n", plugDir)
+	checkError(os.MkdirAll(plugDir, 0755))
+
+	for _, p := range transformedPlugins {
+		plugPath := path.Join(plugDir, p.Type+"-"+p.Name+".json")
+		fmt.Printf("creating %s\n", plugPath)
+		checkError(writeJSON(plugPath, p))
+	}
+
 	plugins := &Plugins{
-		LastUpdate: time.Now(),
-		Plugins:    transformedPlugins,
+		Plugins: pluginNames,
 	}
 
 	plugJson := path.Join(DestDir, "plugins.json")
 	fmt.Printf("creating %s\n", plugJson)
-	checkError(writePlugins(plugJson, plugins))
+	checkError(writeJSON(plugJson, plugins))
 }
