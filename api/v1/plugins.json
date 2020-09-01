@@ -1,0 +1,12 @@
+{
+  "Plugins": [
+    "provider-github",
+    "provider-gitlab",
+    "changelog-generator-default",
+    "commit-analyzer-default",
+    "condition-default",
+    "condition-github",
+    "condition-gitlab",
+    "files-updater-npm"
+  ]
+}
