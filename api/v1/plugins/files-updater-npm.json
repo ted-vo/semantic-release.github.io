@@ -1,7 +1,7 @@
 {
   "Type": "files-updater",
   "Name": "npm",
-  "LatestRelease": "1.1.0",
+  "LatestRelease": "1.2.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T21:37:42Z",
@@ -66,6 +66,39 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "7c87047d8021d2c72d5cb445f1ce04958af0f94933d7dc5edf7161d179e5f65c"
+        }
+      ]
+    },
+    "1.2.0": {
+      "CreatedAt": "2020-09-02T13:31:22Z",
+      "Assets": [
+        {
+          "FileName": "files-updater-npm_v1.2.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.2.0/files-updater-npm_v1.2.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "19fed82a7acc5c798c668fd25c0187f99457c7ec4a89ac0aa389fa82507585e8"
+        },
+        {
+          "FileName": "files-updater-npm_v1.2.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.2.0/files-updater-npm_v1.2.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "19767a1e75b7992fd598245e4c492f4ff08d70634643bfe79bbf462af5da5af1"
+        },
+        {
+          "FileName": "files-updater-npm_v1.2.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.2.0/files-updater-npm_v1.2.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "c32192408fcbebf06d2a59988659adc6c702ef87bb49ee8d57b901f54cab48bc"
+        },
+        {
+          "FileName": "files-updater-npm_v1.2.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.2.0/files-updater-npm_v1.2.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "8d9d13384dc24e6b4183c7c527b6b298568be3c19f9434a55e223876d7797a82"
         }
       ]
     }
