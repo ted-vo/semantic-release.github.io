@@ -1,7 +1,7 @@
 {
   "Type": "commit-analyzer",
   "Name": "default",
-  "LatestRelease": "1.2.1",
+  "LatestRelease": "1.3.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T17:45:13Z",
@@ -158,6 +158,39 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "4e88824f956e4d6887ed61349965a32c62e82a1aadbea17025657590ef2e4b6d"
+        }
+      ]
+    },
+    "1.3.0": {
+      "CreatedAt": "2020-10-27T10:24:46Z",
+      "Assets": [
+        {
+          "FileName": "commit-analyzer-cz_v1.3.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.3.0/commit-analyzer-cz_v1.3.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "b5557629b5df71bca3b080449369cfcf0b45184b3e76e593a5376c2bdc7f9510"
+        },
+        {
+          "FileName": "commit-analyzer-cz_v1.3.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.3.0/commit-analyzer-cz_v1.3.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "d3c92512a6efd6cfc660ff7ac612397a61b0aa707b57e22926448be977cf8d3f"
+        },
+        {
+          "FileName": "commit-analyzer-cz_v1.3.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.3.0/commit-analyzer-cz_v1.3.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "65866c7ab1b928136c2e4b6f91f8f8f28cfb77ff2815d07ab8bc97151f301d2f"
+        },
+        {
+          "FileName": "commit-analyzer-cz_v1.3.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.3.0/commit-analyzer-cz_v1.3.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "d4b13e8d5ba6cbe89c3f30a28cb8512a9c0d34a3de2893cab87f033ac9d458e9"
         }
       ]
     }
