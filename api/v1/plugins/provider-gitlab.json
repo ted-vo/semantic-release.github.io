@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "gitlab",
-  "LatestRelease": "1.3.0",
+  "LatestRelease": "1.4.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T18:47:02Z",
@@ -167,6 +167,10 @@
           "Checksum": "0c409726ffac84d3abd13fe6181c02bef638839f53f19ee603ddda042180bab6"
         }
       ]
+    },
+    "1.4.0": {
+      "CreatedAt": "2020-10-30T08:15:07Z",
+      "Assets": []
     }
   }
 }
