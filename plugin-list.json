@@ -38,5 +38,10 @@
     "Type": "files-updater",
     "Name": "npm",
     "Repo": "go-semantic-release/files-updater-npm"
+  },
+  {
+    "Type": "provider",
+    "Name": "git",
+    "Repo": "go-semantic-release/provider-git"
   }
 ]
