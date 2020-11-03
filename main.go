@@ -46,6 +46,17 @@ type Plugin struct {
 	Versions      map[string]*PluginRelease
 }
 
+func (p *Plugin) CheckLatestRelease() error {
+	pr := p.Versions[p.LatestRelease]
+	if pr == nil {
+		return errors.New("latest release not found")
+	}
+	if len(pr.Assets) == 0 {
+		return errors.New("latest release assets not found")
+	}
+	return nil
+}
+
 type Plugins struct {
 	Plugins []string
 }
@@ -234,6 +245,7 @@ func main() {
 	for i, p := range pList {
 		tp, err := transformPlugin(p)
 		checkError(err)
+		checkError(tp.CheckLatestRelease())
 		pluginNames[i] = tp.Type + "-" + tp.Name
 		transformedPlugins[i] = tp
 	}
