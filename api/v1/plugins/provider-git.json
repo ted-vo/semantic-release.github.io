@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "git",
-  "LatestRelease": "1.0.1",
+  "LatestRelease": "1.0.2",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-11-02T21:53:04Z",
@@ -66,6 +66,39 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "511a97474419d859e3bbd7a75fcb9f2f3ca513e1db0c0b89721c3a0616c37093"
+        }
+      ]
+    },
+    "1.0.2": {
+      "CreatedAt": "2020-11-20T08:17:43Z",
+      "Assets": [
+        {
+          "FileName": "provider-git_v1.0.2_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.0.2/provider-git_v1.0.2_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "48bad1f826d142b41d43d4472aec05a274e9858c47188f7044e21813f3476352"
+        },
+        {
+          "FileName": "provider-git_v1.0.2_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.0.2/provider-git_v1.0.2_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "b243613ae724afa9f8688e5d7a7ac3a0bc0627085fee236936305fb59fcffaeb"
+        },
+        {
+          "FileName": "provider-git_v1.0.2_linux_arm",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.0.2/provider-git_v1.0.2_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "f3dc89a132bd3aeb159453dcb6cf3d7aca8480ecbac1161294965760e81a76fa"
+        },
+        {
+          "FileName": "provider-git_v1.0.2_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.0.2/provider-git_v1.0.2_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "737fb1c603a1450c09b6f82f5bb06e6a7b5a5650436df427592487c2e55d1910"
         }
       ]
     }

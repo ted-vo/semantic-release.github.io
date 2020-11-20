@@ -1,7 +1,7 @@
 {
   "Type": "condition",
   "Name": "github",
-  "LatestRelease": "1.2.0",
+  "LatestRelease": "1.2.1",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T21:12:22Z",
@@ -132,6 +132,39 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "ac04caaba28deab1f0a558564be78425408e304945034749a18c3c5eb5e02e37"
+        }
+      ]
+    },
+    "1.2.1": {
+      "CreatedAt": "2020-11-20T08:17:30Z",
+      "Assets": [
+        {
+          "FileName": "condition-github_v1.2.1_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.2.1/condition-github_v1.2.1_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "34b6d855ee9f8d57fd65e8cef197b0936827059b142164f1f5fd1f4c9470953a"
+        },
+        {
+          "FileName": "condition-github_v1.2.1_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.2.1/condition-github_v1.2.1_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "3af8abc5f8d6df6e4deab11c8076597d53b670651e569f0c50f6400e9e0a1524"
+        },
+        {
+          "FileName": "condition-github_v1.2.1_linux_arm",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.2.1/condition-github_v1.2.1_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "68ec954a1b859311411fa97faaf5e9a974c97d3f067ce2f2c304b9fe5e1fbd5c"
+        },
+        {
+          "FileName": "condition-github_v1.2.1_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.2.1/condition-github_v1.2.1_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "326f603ee6baedbd9645170bbad44605b0dd5499d3f1acdfb484f38ce4599e09"
         }
       ]
     }
