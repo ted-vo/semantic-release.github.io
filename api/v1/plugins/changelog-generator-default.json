@@ -1,7 +1,7 @@
 {
   "Type": "changelog-generator",
   "Name": "default",
-  "LatestRelease": "1.4.1",
+  "LatestRelease": "1.5.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T18:20:16Z",
@@ -231,6 +231,39 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "64eb6a67135966b7eeb97e16b085db762294b352bb271f1117ea814e9bcbb940"
+        }
+      ]
+    },
+    "1.5.0": {
+      "CreatedAt": "2020-12-09T11:23:30Z",
+      "Assets": [
+        {
+          "FileName": "changelog-generator-default_v1.5.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "bfbfc41e9e7b5c7f7e868cc0dd7402fd8525a2d23b39386588601bdf599a1587"
+        },
+        {
+          "FileName": "changelog-generator-default_v1.5.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "2654a4b3a87f89a78834dcdc2d2060d581be9227fbfecc899b7922462fe0b4ca"
+        },
+        {
+          "FileName": "changelog-generator-default_v1.5.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "64f97a0aed4e8a749ea9f90bbbb6b4c6952ef3a46b526c778616f3727b435350"
+        },
+        {
+          "FileName": "changelog-generator-default_v1.5.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "f9da442f76e65d54731af83ceeb68497f5b21f9ae96bf3cfe1cc0d45a274e451"
         }
       ]
     }
