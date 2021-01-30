@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/Masterminds/semver/v3"
-	"github.com/google/go-github/v32/github"
+	"github.com/google/go-github/v33/github"
 	"golang.org/x/oauth2"
 )
 
