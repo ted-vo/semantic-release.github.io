@@ -43,5 +43,10 @@
     "Type": "provider",
     "Name": "git",
     "Repo": "go-semantic-release/provider-git"
+  },
+  {
+    "Type": "condition",
+    "Name": "bitbucket",
+    "Repo": "durandj/semantic-release-condition-bitbucket"
   }
 ]
