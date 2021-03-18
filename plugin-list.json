@@ -47,6 +47,6 @@
   {
     "Type": "condition",
     "Name": "bitbucket",
-    "Repo": "durandj/semantic-release-condition-bitbucket"
+    "Repo": "go-semantic-release/condition-bitbucket"
   }
 ]
