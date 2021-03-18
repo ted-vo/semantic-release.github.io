@@ -8,6 +8,7 @@
     "condition-github",
     "condition-gitlab",
     "files-updater-npm",
-    "provider-git"
+    "provider-git",
+    "condition-bitbucket"
   ]
 }
