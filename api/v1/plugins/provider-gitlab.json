@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "gitlab",
-  "LatestRelease": "1.4.1",
+  "LatestRelease": "1.5.1",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T18:47:02Z",
@@ -231,6 +231,86 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "7cdd7d8fb9db4c9327bdea06f8279bfa8e6076af33699b7ad69a603c1a55b50c"
+        }
+      ]
+    },
+    "1.5.0": {
+      "CreatedAt": "2021-07-27T18:01:47Z",
+      "Assets": [
+        {
+          "FileName": "provider-gitlab_v1.5.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.0/provider-gitlab_v1.5.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "5b3b1a8f058edd7ee38492864ac0880652fed789da702fd8c99fd5d9eb33523a"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.0_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.0/provider-gitlab_v1.5.0_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "b5688e33917fd3db258069bc4bb0ae46e403bc03030c21416f61f7c965457398"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.0/provider-gitlab_v1.5.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "d8d96ef989ef488ad6053ed89d0ea3f4ce66614fa01512a58d679654cb7bc833"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.0/provider-gitlab_v1.5.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "6a14ca1cbe22530aeb3927e957765eba80b681b6eae29a8cffea912c8c2268b8"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.0/provider-gitlab_v1.5.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "e73b55cbc3d7d52f56e4233f8661f8fdb4d4d5ccd7a632d9e7c8168851e5cf78"
+        }
+      ]
+    },
+    "1.5.1": {
+      "CreatedAt": "2021-07-27T18:10:33Z",
+      "Assets": [
+        {
+          "FileName": "provider-gitlab_v1.5.1_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "ce778d1eb54ec2b89bca7fe85fa9de3767434d201453020d39ba6024721d1ddd"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "03d4840c94c2e6b564430afa83cef1892387107a892541737f30eebb6012a407"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "1bb83493732dacb6c75ef6d8841a9aa6ca386ef65772c1fdc6a5a6deed72b27e"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_linux_arm",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "54658f07f39b12dfd73a1a23a03e6b673b9c9298db48d1e9495c05bf78b71431"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "0ca8f93e4450603b2aff483c6a503771e27a18d0ffd59da06ccdd7dc45965bdb"
         }
       ]
     }
