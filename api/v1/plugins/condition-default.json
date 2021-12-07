@@ -143,28 +143,28 @@
           "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.2.2/condition-default_v1.2.2_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "07e8fa4a0c2e5a5ae317b73d7f60a7cd8f171653260e2c87edf10fbb1c4b8413"
         },
         {
           "FileName": "condition-default_v1.2.2_linux_amd64",
           "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.2.2/condition-default_v1.2.2_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "3af3ecfd723a7a0abf72a9f306fe202e3a124af759811975aec0ba8276e763be"
         },
         {
           "FileName": "condition-default_v1.2.2_linux_arm",
           "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.2.2/condition-default_v1.2.2_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "d1def2cdcc9fb2a98ce6c7658964b931ba4babf41eda9fae4de7854b336c3890"
         },
         {
           "FileName": "condition-default_v1.2.2_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.2.2/condition-default_v1.2.2_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "dd54fbdf647a06976ff59ab75addcb8295c86db5a7a1e3285e84d42ec5b58e95"
         }
       ]
     },
