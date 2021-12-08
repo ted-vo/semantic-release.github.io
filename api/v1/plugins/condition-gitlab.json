@@ -110,28 +110,28 @@
           "URL": "https://github.com/go-semantic-release/condition-gitlab/releases/download/v1.2.0/condition-gitlab_v1.2.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "318ee7a6cebda077cb9fe4e8f47220317b139a6102a397beb37019119db778b0"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v1.2.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/condition-gitlab/releases/download/v1.2.0/condition-gitlab_v1.2.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "d1ac0fe15e54fff639c412be88221dd87d98703ce0fcf450786d9d7cf11e3956"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v1.2.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/condition-gitlab/releases/download/v1.2.0/condition-gitlab_v1.2.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "9bf9fd751a787c6e1f64cc52664f21ed7f1c451418fe1d309b2523bd9cc5cb1c"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v1.2.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/condition-gitlab/releases/download/v1.2.0/condition-gitlab_v1.2.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "e4067727ca63d94e17daa94d8c85b9cd38645e9770a0d7e6cbb3814cbf6c7502"
+          "Checksum": ""
         }
       ]
     },
