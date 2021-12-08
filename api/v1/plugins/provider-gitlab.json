@@ -110,28 +110,28 @@
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.2.0/provider-gitlab_v1.2.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "96ba7c86fee63ba6ca8ce34302b86521c182b81c1d44b551a948a33fbfbae90f"
+          "Checksum": ""
         },
         {
           "FileName": "provider-gitlab_v1.2.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.2.0/provider-gitlab_v1.2.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "9451e8c9697e6a7b0737cba294bcb2b6fe20305d7fd6b0721193fd830acd7126"
+          "Checksum": ""
         },
         {
           "FileName": "provider-gitlab_v1.2.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.2.0/provider-gitlab_v1.2.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "c9953f3e311fdb449fe21fa71a236c7c456227bad0028ed8f501bd86e633a5e8"
+          "Checksum": ""
         },
         {
           "FileName": "provider-gitlab_v1.2.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.2.0/provider-gitlab_v1.2.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "291cd32441819b057a658e50330ec7c7f855af782a7d09adb3131dfac24fbf43"
+          "Checksum": ""
         }
       ]
     },
@@ -282,35 +282,35 @@
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "ce778d1eb54ec2b89bca7fe85fa9de3767434d201453020d39ba6024721d1ddd"
         },
         {
           "FileName": "provider-gitlab_v1.5.1_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "03d4840c94c2e6b564430afa83cef1892387107a892541737f30eebb6012a407"
         },
         {
           "FileName": "provider-gitlab_v1.5.1_linux_amd64",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "1bb83493732dacb6c75ef6d8841a9aa6ca386ef65772c1fdc6a5a6deed72b27e"
         },
         {
           "FileName": "provider-gitlab_v1.5.1_linux_arm",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "54658f07f39b12dfd73a1a23a03e6b673b9c9298db48d1e9495c05bf78b71431"
         },
         {
           "FileName": "provider-gitlab_v1.5.1_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "0ca8f93e4450603b2aff483c6a503771e27a18d0ffd59da06ccdd7dc45965bdb"
         }
       ]
     },
