@@ -48,5 +48,10 @@
     "Type": "condition",
     "Name": "bitbucket",
     "Repo": "go-semantic-release/condition-bitbucket"
+  },
+  {
+    "Type": "files-updater",
+    "Name": "helm",
+    "Repo": "go-semantic-release/files-updater-helm"
   }
 ]
