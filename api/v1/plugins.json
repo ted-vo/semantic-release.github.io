@@ -9,6 +9,7 @@
     "condition-gitlab",
     "files-updater-npm",
     "provider-git",
-    "condition-bitbucket"
+    "condition-bitbucket",
+    "files-updater-helm"
   ]
 }
