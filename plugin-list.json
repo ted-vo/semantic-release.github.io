@@ -53,5 +53,10 @@
     "Type": "files-updater",
     "Name": "helm",
     "Repo": "go-semantic-release/files-updater-helm"
+  },
+  {
+    "Type": "hooks",
+    "Name": "goreleaser",
+    "Repo": "go-semantic-release/hooks-goreleaser"
   }
 ]
