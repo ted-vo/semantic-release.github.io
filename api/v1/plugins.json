@@ -10,6 +10,7 @@
     "files-updater-npm",
     "provider-git",
     "condition-bitbucket",
-    "files-updater-helm"
+    "files-updater-helm",
+    "hooks-goreleaser"
   ]
 }
