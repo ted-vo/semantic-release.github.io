@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "github",
-  "LatestRelease": "1.7.0",
+  "LatestRelease": "1.8.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T18:36:22Z",
