@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "gitlab",
-  "LatestRelease": "1.6.0",
+  "LatestRelease": "1.5.1",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T18:47:02Z",
