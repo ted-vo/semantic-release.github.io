@@ -147,35 +147,35 @@
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.3.1/files-updater-npm_v1.3.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "dc2d7fab94d5c0c9ef0f8c097f5f7abef8ed6b177f95d553eed83c493c4aa078"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-npm_v1.3.1_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.3.1/files-updater-npm_v1.3.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "97e0670ebde92af74820cebd4b3bb3e2fef2dc377b2b29bc6fee1f5df11b078f"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-npm_v1.3.1_linux_amd64",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.3.1/files-updater-npm_v1.3.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "a00ebe8eae82b4be9933b669c61f4dac1dc915daa734ad1deef6677646c50612"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-npm_v1.3.1_linux_arm",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.3.1/files-updater-npm_v1.3.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "a5b074cdc8715f16f422199766f223e7c8dab2cac032ae63e47d7f6b384e4aa3"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-npm_v1.3.1_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.3.1/files-updater-npm_v1.3.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "443df20fa2252607af79b6ed1e331d0c5f5747f88134b85dd56024df128e69a7"
+          "Checksum": ""
         }
       ]
     },
