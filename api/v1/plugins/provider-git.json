@@ -201,42 +201,42 @@
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.0/provider-git_v1.3.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "5ae28bcdbfa56f91a7433b43ebdfe12d2a01a10b86d6a70de0850bb66a817bba"
         },
         {
           "FileName": "provider-git_v1.3.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.0/provider-git_v1.3.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "6c558dafca0afd42265091ad2a167f0f93e975f47f35ce7bf09e5d8993653d23"
         },
         {
           "FileName": "provider-git_v1.3.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.0/provider-git_v1.3.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "fc21f294804f11849562c4d2768fe1fb517e4c064a7af30591e3214d2b43af77"
         },
         {
           "FileName": "provider-git_v1.3.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.0/provider-git_v1.3.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "bea0fa9b9a08520c0fd0cc3ab1668802fcd06dfeb2f3b0dc95b5c257b96c3d45"
         },
         {
           "FileName": "provider-git_v1.3.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.0/provider-git_v1.3.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "87aa8c756cc350a3fece75ca9fd5f2d59e0b690f1344426952030ea18b2adec5"
         },
         {
           "FileName": "provider-git_v1.3.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.0/provider-git_v1.3.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "34461a09c5a619026541dcb65c3a6b581c040aac780e456cbdb34e00e5e6ec17"
         }
       ]
     },
