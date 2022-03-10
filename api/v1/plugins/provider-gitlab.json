@@ -322,42 +322,42 @@
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.6.0/provider-gitlab_v1.6.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "88266bc3ad80757aab4b86f860e1e935fadfdc3a28f84a755274284c41be06ea"
         },
         {
           "FileName": "provider-gitlab_v1.6.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.6.0/provider-gitlab_v1.6.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "219f7d47132fa4b913da70028268dc809626894927d51b9d954b38f2e3f783c6"
         },
         {
           "FileName": "provider-gitlab_v1.6.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.6.0/provider-gitlab_v1.6.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "470e61f55c99ade1e22539453857d839a22122608600bb4c70951d07a4409bc0"
         },
         {
           "FileName": "provider-gitlab_v1.6.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.6.0/provider-gitlab_v1.6.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "0e47d91a86a072ab2751342eee476ac7b4590fe10aaffddb29bc44041f1cb511"
         },
         {
           "FileName": "provider-gitlab_v1.6.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.6.0/provider-gitlab_v1.6.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "b790da947f083bbe0ce85319ab556d9c3bcf36ebed89d85f90794cbdf928b664"
         },
         {
           "FileName": "provider-gitlab_v1.6.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.6.0/provider-gitlab_v1.6.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "ba1315fa6c75b4ba98adbadbe0f69ab9a5d69c0f365fd6d07817a71f4b97ac01"
         }
       ]
     }
