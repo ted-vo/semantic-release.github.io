@@ -1,7 +1,7 @@
 {
   "Type": "hooks",
   "Name": "goreleaser",
-  "LatestRelease": "1.0.1",
+  "LatestRelease": "1.1.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2022-01-30T12:29:27Z",
@@ -94,6 +94,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "afba8e369ea55e3a554da220d43705b9a0d95bc3cbf7cc802a86e0aa0f7e16d4"
+        }
+      ]
+    },
+    "1.1.0": {
+      "CreatedAt": "2022-03-13T18:29:41Z",
+      "Assets": [
+        {
+          "FileName": "hooks-goreleaser_v1.1.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.1.0/hooks-goreleaser_v1.1.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "f6b85eff50cd750f5e33b45b0c239d7062e0175392b07dcd6d155e36ac10988f"
+        },
+        {
+          "FileName": "hooks-goreleaser_v1.1.0_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.1.0/hooks-goreleaser_v1.1.0_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "9c997ecd58d8657b1a213e1411e119e849b4726091f82572b26f1e48a6cb8a5d"
+        },
+        {
+          "FileName": "hooks-goreleaser_v1.1.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.1.0/hooks-goreleaser_v1.1.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "166fcf309f07caf667b31991e49afaf1b7411c5cb085caa3bce060e084081430"
+        },
+        {
+          "FileName": "hooks-goreleaser_v1.1.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.1.0/hooks-goreleaser_v1.1.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "460a1b2becdc191a70cad90cff94dd8392da1493b22349aef5c3dfdd84c3bf93"
+        },
+        {
+          "FileName": "hooks-goreleaser_v1.1.0_linux_arm64",
+          "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.1.0/hooks-goreleaser_v1.1.0_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "57e3e36defc4ef1f0126c36471f1584f831a9365675d0e5cb95a774b0c5e6bb6"
+        },
+        {
+          "FileName": "hooks-goreleaser_v1.1.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.1.0/hooks-goreleaser_v1.1.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "d420be5a4bcb2b3543dccd75e3f8b3e73531da555aae3ff75921dba8c70c20ac"
         }
       ]
     }
