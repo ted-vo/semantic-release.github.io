@@ -1,7 +1,7 @@
 {
   "Type": "commit-analyzer",
   "Name": "default",
-  "LatestRelease": "1.5.0",
+  "LatestRelease": "1.4.1",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T17:45:13Z",
