@@ -106,46 +106,6 @@
       "CreatedAt": "2021-07-27T17:52:54Z",
       "Assets": []
     },
-    "1.1.1": {
-      "CreatedAt": "2021-07-27T18:10:26Z",
-      "Assets": [
-        {
-          "FileName": "provider-git_v1.1.1_darwin_amd64",
-          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.1.1/provider-git_v1.1.1_darwin_amd64",
-          "OS": "darwin",
-          "Arch": "amd64",
-          "Checksum": "58a0ef215d23c6b82aa541c6cfe1714a3f525d704e9c95c3110d746bca3bfbc4"
-        },
-        {
-          "FileName": "provider-git_v1.1.1_darwin_arm64",
-          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.1.1/provider-git_v1.1.1_darwin_arm64",
-          "OS": "darwin",
-          "Arch": "arm64",
-          "Checksum": "c106a98497c5149782ca79dddd77e3aefc0ffa1c038301416e4caf0798d1948b"
-        },
-        {
-          "FileName": "provider-git_v1.1.1_linux_amd64",
-          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.1.1/provider-git_v1.1.1_linux_amd64",
-          "OS": "linux",
-          "Arch": "amd64",
-          "Checksum": "5149341d9f055c0dfaf1402b8cde4b93319fc363d879f18907f11f265fa60647"
-        },
-        {
-          "FileName": "provider-git_v1.1.1_linux_arm",
-          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.1.1/provider-git_v1.1.1_linux_arm",
-          "OS": "linux",
-          "Arch": "arm",
-          "Checksum": "7d44e9b509bd9d6861464bcebc93fc9bdb9ef5d59171dc15d182f5797eb527f8"
-        },
-        {
-          "FileName": "provider-git_v1.1.1_windows_amd64.exe",
-          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.1.1/provider-git_v1.1.1_windows_amd64.exe",
-          "OS": "windows",
-          "Arch": "amd64",
-          "Checksum": "e1012bb2a346b81c667ebd0caf7a68978acd4baea747668154b7d28368ba829d"
-        }
-      ]
-    },
     "1.2.0": {
       "CreatedAt": "2021-07-28T17:37:51Z",
       "Assets": [
