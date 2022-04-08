@@ -36,6 +36,39 @@
         }
       ]
     },
+    "1.1.0": {
+      "CreatedAt": "2020-08-17T07:47:43Z",
+      "Assets": [
+        {
+          "FileName": "provider-github_v1.1.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.1.0/provider-github_v1.1.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": ""
+        },
+        {
+          "FileName": "provider-github_v1.1.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.1.0/provider-github_v1.1.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": ""
+        },
+        {
+          "FileName": "provider-github_v1.1.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.1.0/provider-github_v1.1.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": ""
+        },
+        {
+          "FileName": "provider-github_v1.1.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.1.0/provider-github_v1.1.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": ""
+        }
+      ]
+    },
     "1.1.1": {
       "CreatedAt": "2020-08-17T11:47:17Z",
       "Assets": [
@@ -299,6 +332,10 @@
           "Checksum": "7a472d5a35bd9c6b5b2f889173623b03d3573d5deacbf959a3b10d7984b4f75a"
         }
       ]
+    },
+    "1.6.0": {
+      "CreatedAt": "2021-07-27T17:53:02Z",
+      "Assets": []
     },
     "1.6.1": {
       "CreatedAt": "2021-07-27T18:10:29Z",
