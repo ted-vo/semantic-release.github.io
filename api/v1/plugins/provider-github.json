@@ -201,39 +201,6 @@
         }
       ]
     },
-    "1.4.1": {
-      "CreatedAt": "2020-11-20T08:17:47Z",
-      "Assets": [
-        {
-          "FileName": "provider-github_v1.4.1_darwin_amd64",
-          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.4.1/provider-github_v1.4.1_darwin_amd64",
-          "OS": "darwin",
-          "Arch": "amd64",
-          "Checksum": "de7b6b5048d70f1399dbba1b96b8959970fe0398c79cd479895a5befca60542d"
-        },
-        {
-          "FileName": "provider-github_v1.4.1_linux_amd64",
-          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.4.1/provider-github_v1.4.1_linux_amd64",
-          "OS": "linux",
-          "Arch": "amd64",
-          "Checksum": "598d535b05ebd322f37294aeb8044b72662e85bc51777be94a1b225b0eefa83c"
-        },
-        {
-          "FileName": "provider-github_v1.4.1_linux_arm",
-          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.4.1/provider-github_v1.4.1_linux_arm",
-          "OS": "linux",
-          "Arch": "arm",
-          "Checksum": "4a82e7b63f080e0f9f924636a32491fbda5e933ae988114c67f50e3970f10b68"
-        },
-        {
-          "FileName": "provider-github_v1.4.1_windows_amd64.exe",
-          "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.4.1/provider-github_v1.4.1_windows_amd64.exe",
-          "OS": "windows",
-          "Arch": "amd64",
-          "Checksum": "007e794e0cec7ad01df5495a9a80a6f4652e6ea8a50846e70ecc60e7ff16d559"
-        }
-      ]
-    },
     "1.5.0": {
       "CreatedAt": "2021-01-30T20:46:59Z",
       "Assets": [
