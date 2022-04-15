@@ -274,6 +274,46 @@
         }
       ]
     },
+    "1.5.1": {
+      "CreatedAt": "2021-07-27T18:10:33Z",
+      "Assets": [
+        {
+          "FileName": "provider-gitlab_v1.5.1_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "ce778d1eb54ec2b89bca7fe85fa9de3767434d201453020d39ba6024721d1ddd"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "03d4840c94c2e6b564430afa83cef1892387107a892541737f30eebb6012a407"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "1bb83493732dacb6c75ef6d8841a9aa6ca386ef65772c1fdc6a5a6deed72b27e"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_linux_arm",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "54658f07f39b12dfd73a1a23a03e6b673b9c9298db48d1e9495c05bf78b71431"
+        },
+        {
+          "FileName": "provider-gitlab_v1.5.1_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.5.1/provider-gitlab_v1.5.1_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "0ca8f93e4450603b2aff483c6a503771e27a18d0ffd59da06ccdd7dc45965bdb"
+        }
+      ]
+    },
     "1.6.0": {
       "CreatedAt": "2021-07-28T17:38:13Z",
       "Assets": [
