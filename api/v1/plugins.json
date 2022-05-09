@@ -4,6 +4,7 @@
     "changelog-generator-default",
     "commit-analyzer-default",
     "condition-gitlab",
+    "condition-github",
     "files-updater-gradle",
     "hooks-gradle-publisher"
   ]
