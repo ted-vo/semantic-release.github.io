@@ -20,6 +20,11 @@
     "Repo": "ted-vo/condition-gitlab"
   },
   {
+    "Type": "condition",
+    "Name": "github",
+    "Repo": "ted-vo/condition-github"
+  },
+  {
     "Type": "files-updater",
     "Name": "gradle",
     "Repo": "ted-vo/files-updater-gradle"
