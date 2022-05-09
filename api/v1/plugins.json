@@ -1,6 +1,7 @@
 {
   "Plugins": [
     "provider-gitlab",
+    "provider-github",
     "changelog-generator-default",
     "commit-analyzer-default",
     "condition-gitlab",
