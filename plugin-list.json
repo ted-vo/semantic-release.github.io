@@ -5,6 +5,11 @@
     "Repo": "ted-vo/provider-gitlab"
   },
   {
+    "Type": "provider",
+    "Name": "github",
+    "Repo": "ted-vo/provider-github"
+  },
+  {
     "Type": "changelog-generator",
     "Name": "default",
     "Repo": "ted-vo/changelog-generator-default"
