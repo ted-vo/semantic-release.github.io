@@ -1,16 +1,10 @@
 {
   "Plugins": [
-    "provider-github",
     "provider-gitlab",
     "changelog-generator-default",
     "commit-analyzer-default",
-    "condition-default",
-    "condition-github",
     "condition-gitlab",
-    "files-updater-npm",
-    "provider-git",
-    "condition-bitbucket",
-    "files-updater-helm",
-    "hooks-goreleaser"
+    "files-updater-gradle",
+    "hooks-gradle-publisher"
   ]
 }
