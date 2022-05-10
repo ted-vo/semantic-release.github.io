@@ -1,7 +1,7 @@
 {
   "Type": "hooks",
   "Name": "gradle-publisher",
-  "LatestRelease": "1.1.0",
+  "LatestRelease": "1.1.1",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2022-04-05T17:24:17Z",
@@ -141,6 +141,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "c78bd407b6f74b08aef59c9f6ab8573231114bdb8e9d5068c3418b25e3dbdd09"
+        }
+      ]
+    },
+    "1.1.1": {
+      "CreatedAt": "2022-05-10T06:09:43Z",
+      "Assets": [
+        {
+          "FileName": "hooks-gradle-publisher_v1.1.1_darwin_amd64",
+          "URL": "https://github.com/ted-vo/hooks-gradle-publisher/releases/download/v1.1.1/hooks-gradle-publisher_v1.1.1_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "cd5d794e959253cd0c7b648168fbe260019afb545f0a8ecd9f7c47ad46dfccca"
+        },
+        {
+          "FileName": "hooks-gradle-publisher_v1.1.1_darwin_arm64",
+          "URL": "https://github.com/ted-vo/hooks-gradle-publisher/releases/download/v1.1.1/hooks-gradle-publisher_v1.1.1_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "ef3b64a9272018dad3d311e19740aa0842797ae2f358a9b4fc0b8f5d25840788"
+        },
+        {
+          "FileName": "hooks-gradle-publisher_v1.1.1_linux_amd64",
+          "URL": "https://github.com/ted-vo/hooks-gradle-publisher/releases/download/v1.1.1/hooks-gradle-publisher_v1.1.1_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "cd8f6b7a3fc9c8a779c94fed35d55acac77f8d783d8a7f847342cb4e984c33a2"
+        },
+        {
+          "FileName": "hooks-gradle-publisher_v1.1.1_linux_arm",
+          "URL": "https://github.com/ted-vo/hooks-gradle-publisher/releases/download/v1.1.1/hooks-gradle-publisher_v1.1.1_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "ce390e1a0ff151d52ccd1622a43b4aca09a9a342b1252aceed3e8b2735c97af3"
+        },
+        {
+          "FileName": "hooks-gradle-publisher_v1.1.1_linux_arm64",
+          "URL": "https://github.com/ted-vo/hooks-gradle-publisher/releases/download/v1.1.1/hooks-gradle-publisher_v1.1.1_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "b4be9a72b304206f8f6394701f95dfa32cfea14d7006fce2904deaf5acca1faa"
+        },
+        {
+          "FileName": "hooks-gradle-publisher_v1.1.1_windows_amd64.exe",
+          "URL": "https://github.com/ted-vo/hooks-gradle-publisher/releases/download/v1.1.1/hooks-gradle-publisher_v1.1.1_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "a33864b495b33ecd52bba3b2de107389f167ae15c68cbde16642e7b2d9897c02"
         }
       ]
     }
