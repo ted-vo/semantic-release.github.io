@@ -1,7 +1,7 @@
 {
   "Type": "files-updater",
   "Name": "gradle",
-  "LatestRelease": "1.1.2",
+  "LatestRelease": "1.2.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2022-04-04T18:24:12Z",
@@ -282,6 +282,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "dabbe8db616a68680428fb1b0b345105d3752bd2bd12f5268081b35d73dde73c"
+        }
+      ]
+    },
+    "1.2.0": {
+      "CreatedAt": "2022-05-11T04:24:39Z",
+      "Assets": [
+        {
+          "FileName": "files-updater-gradle_v1.2.0_darwin_amd64",
+          "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.2.0/files-updater-gradle_v1.2.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "ad5a854d0357046f82715c436cc7467ba5cd2990763bc6bc514a19af9eb46b29"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.2.0_darwin_arm64",
+          "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.2.0/files-updater-gradle_v1.2.0_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "6d94e6886a43058c55d1ff65947b42792c3a1d0eb45be9fd08db8082ee7a104e"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.2.0_linux_amd64",
+          "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.2.0/files-updater-gradle_v1.2.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "2bf014e80de0166c7176133661a22c6349505e010bf5d71bc045ebd45956150c"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.2.0_linux_arm",
+          "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.2.0/files-updater-gradle_v1.2.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "d49e87e734341a18dc3d35ed3fccd658e08b79c17909e85e12871b1c0e73f4c8"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.2.0_linux_arm64",
+          "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.2.0/files-updater-gradle_v1.2.0_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "f70959bcd8eaedb6659c0c59defa7d94ed950c5b78ad1aa4d58ba151461268aa"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.2.0_windows_amd64.exe",
+          "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.2.0/files-updater-gradle_v1.2.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "513b0e01912c68b616b37150d5181a251a5f580f0288d3e6cb5993a687a6aa89"
         }
       ]
     }
