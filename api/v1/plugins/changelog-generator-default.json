@@ -1,7 +1,7 @@
 {
   "Type": "changelog-generator",
   "Name": "default",
-  "LatestRelease": "1.8.0",
+  "LatestRelease": "1.8.1",
   "Versions": {
     "1.8.0": {
       "CreatedAt": "2022-05-09T08:06:28Z",
