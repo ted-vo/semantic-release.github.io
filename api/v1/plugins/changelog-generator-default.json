@@ -58,42 +58,42 @@
           "URL": "https://github.com/ted-vo/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "f8cf7a346dbd8227c6eb2b5cbdd229f64453fd0a3a1972787a6db5b20d64b91a"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_darwin_arm64",
           "URL": "https://github.com/ted-vo/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "6ff60580af95bedcf6d81bc4395d1ed5935c4027ad2a738d5beb38cfd469aadb"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_linux_amd64",
           "URL": "https://github.com/ted-vo/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "af5cc3aff05679294587d152c209c05c0233cbaca3b7cfa671c21c1db308577f"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_linux_arm",
           "URL": "https://github.com/ted-vo/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "e7c85e41ca9b03f2c3062e3c41b3cd53ecb6f2054c2a7d426814a202322c1b0c"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_linux_arm64",
           "URL": "https://github.com/ted-vo/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "f85c30c9913a2d7c807fbbff234cd8efe42d77fc25565d3c9b3676463ab64cd7"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_windows_amd64.exe",
           "URL": "https://github.com/ted-vo/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "8c3c17dcccd8f3543fa433c13d01407e7d55a82d7a3c87b10463f25219d27d43"
+          "Checksum": ""
         }
       ]
     }
