@@ -1,6 +1,11 @@
 [
   {
     "Type": "provider",
+    "Name": "git",
+    "Repo": "ted-vo/provider-git"
+  },
+  {
+    "Type": "provider",
     "Name": "gitlab",
     "Repo": "ted-vo/provider-gitlab"
   },
