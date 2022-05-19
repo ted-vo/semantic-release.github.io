@@ -40,6 +40,11 @@
     "Repo": "ted-vo/files-updater-gradle"
   },
   {
+    "Type": "publisher",
+    "Name": "gradle",
+    "Repo": "ted-vo/publisher-gradle"
+  },
+  {
     "Type": "hooks",
     "Name": "gradle-publisher",
     "Repo": "ted-vo/hooks-gradle-publisher"
