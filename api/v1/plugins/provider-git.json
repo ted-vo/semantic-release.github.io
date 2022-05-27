@@ -11,42 +11,42 @@
           "URL": "https://github.com/ted-vo/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "5253a849e975daf37e4641c27d8360efbcaeb5db5e7056a6a2e5f0cdd5343db5"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_darwin_arm64",
           "URL": "https://github.com/ted-vo/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "16ecbef3ff1a9c4b52afcdf89c309397b8004ac5e2c673d967731a8283b2a067"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_linux_amd64",
           "URL": "https://github.com/ted-vo/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "2f7660392bb1afcc1d7bba6097d38ef24772dcf0dfa5c154b89d33322cd6a0f0"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_linux_arm",
           "URL": "https://github.com/ted-vo/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "e6bf64afeb57225f410e5ff201893b522ee0d2b4ae183a20413d637151eecc09"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_linux_arm64",
           "URL": "https://github.com/ted-vo/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "9aa6b3820a0a857085e842d8eb869f6cdb1aa566a0d6d8a7afbdffb30f05a836"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_windows_amd64.exe",
           "URL": "https://github.com/ted-vo/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "265f7c4974e62cee70ac56914708f2b5f2d83e4d5cbacc0f07a757e7b674bede"
+          "Checksum": ""
         }
       ]
     },

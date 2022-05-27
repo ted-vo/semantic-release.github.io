@@ -246,42 +246,42 @@
           "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.1.2/files-updater-gradle_v1.1.2_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "e59ee559132c5d6f921309f63b738a27f25bf1c55d33d229d08a037ed2089690"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.1.2_darwin_arm64",
           "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.1.2/files-updater-gradle_v1.1.2_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "ddd6d3d6cd10edeca597c6b159fab25cb48688bc3af591305841230385e4ef24"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.1.2_linux_amd64",
           "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.1.2/files-updater-gradle_v1.1.2_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "8fe8ae58adbb47dae67d35ac517c48c9fb6d2a39a66427dc759d9b7432ef396a"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.1.2_linux_arm",
           "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.1.2/files-updater-gradle_v1.1.2_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "043035598d63b7d8cf7a9e5f32e706efb94bdabb41caad6706ea1dea965140af"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.1.2_linux_arm64",
           "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.1.2/files-updater-gradle_v1.1.2_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "6195629112b5b34604830c93e366cd873654ca976a93c1f111c223d62a9fb81b"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.1.2_windows_amd64.exe",
           "URL": "https://github.com/ted-vo/files-updater-gradle/releases/download/v1.1.2/files-updater-gradle_v1.1.2_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "dabbe8db616a68680428fb1b0b345105d3752bd2bd12f5268081b35d73dde73c"
+          "Checksum": ""
         }
       ]
     },
