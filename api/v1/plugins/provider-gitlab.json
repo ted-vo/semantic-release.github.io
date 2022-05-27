@@ -11,42 +11,42 @@
           "URL": "https://github.com/ted-vo/provider-gitlab/releases/download/v2.0.0/provider-gitlab_v2.0.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "efab2c0fcffeca3ab0138c4f9b7d0c486e6efc791a213abef3c2cae574fa68d1"
         },
         {
           "FileName": "provider-gitlab_v2.0.0_darwin_arm64",
           "URL": "https://github.com/ted-vo/provider-gitlab/releases/download/v2.0.0/provider-gitlab_v2.0.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "6eb1c139e3e152f18b4822102b08cbdb3951b94931722339fae9984c25bbeb14"
         },
         {
           "FileName": "provider-gitlab_v2.0.0_linux_amd64",
           "URL": "https://github.com/ted-vo/provider-gitlab/releases/download/v2.0.0/provider-gitlab_v2.0.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "a8ec3adcbe11dc9219c2abd86e1191e243992b0ccba6c7d5e32ffc88fc517dd6"
         },
         {
           "FileName": "provider-gitlab_v2.0.0_linux_arm",
           "URL": "https://github.com/ted-vo/provider-gitlab/releases/download/v2.0.0/provider-gitlab_v2.0.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "9f26f44c769bd91809e589e9501cd4c711bb0d003379d11e1a498f55a31bd505"
         },
         {
           "FileName": "provider-gitlab_v2.0.0_linux_arm64",
           "URL": "https://github.com/ted-vo/provider-gitlab/releases/download/v2.0.0/provider-gitlab_v2.0.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "538febcbe5fe5ab7041857abf135defe2396ee8603e4867c3bfa9e61477b2ce2"
         },
         {
           "FileName": "provider-gitlab_v2.0.0_windows_amd64.exe",
           "URL": "https://github.com/ted-vo/provider-gitlab/releases/download/v2.0.0/provider-gitlab_v2.0.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "d889c9868ddea5738fc4f486d8f09ced3e2a9f80a03515363a8f246bac4b8d63"
         }
       ]
     },
