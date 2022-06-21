@@ -8,42 +8,42 @@
       "Assets": [
         {
           "FileName": "commit-analyzer-cz_v1.6.0_darwin_amd64",
-          "URL": "https://github.com/Meepo-Lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_darwin_amd64",
+          "URL": "https://github.com/meepo-lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
           "Checksum": "9dfda13c4ae27e7326ad82a2bbc24bb67318f461a552cd1c07f14cfc1210de54"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_darwin_arm64",
-          "URL": "https://github.com/Meepo-Lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_darwin_arm64",
+          "URL": "https://github.com/meepo-lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
           "Checksum": "74c425912759180113a81204318a8ffe04f8e3765220d8653513790e7b5f6b9a"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_linux_amd64",
-          "URL": "https://github.com/Meepo-Lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_amd64",
+          "URL": "https://github.com/meepo-lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
           "Checksum": "6485a9148474d662e4572d0f64b9bb3f68ab9a0210be78ed4ec7c896f55ea356"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_linux_arm",
-          "URL": "https://github.com/Meepo-Lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_arm",
+          "URL": "https://github.com/meepo-lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
           "Checksum": "d7ee2fcf1dfb7cd6f8a6524a798b272cb3fea78ad1c0824c15f5d153ce0b92c0"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_linux_arm64",
-          "URL": "https://github.com/Meepo-Lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_arm64",
+          "URL": "https://github.com/meepo-lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
           "Checksum": "bc4622e2b07f45609778bd2cbb12d4e47f33c4dad6b449c8991143e6235cf767"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_windows_amd64.exe",
-          "URL": "https://github.com/Meepo-Lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_windows_amd64.exe",
+          "URL": "https://github.com/meepo-lab/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "1ec62453258e794f45feb9b32407438e8fb26c4eed9cd45e91fb870f449adc00"

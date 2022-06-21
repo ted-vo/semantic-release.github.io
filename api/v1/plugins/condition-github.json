@@ -8,42 +8,42 @@
       "Assets": [
         {
           "FileName": "condition-github_v1.5.0_darwin_amd64",
-          "URL": "https://github.com/Meepo-Lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_darwin_amd64",
+          "URL": "https://github.com/meepo-lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
           "Checksum": "7b60d1730448bd02870901400830cc1172fe0eca247087e14e3cd2b143fcfc6a"
         },
         {
           "FileName": "condition-github_v1.5.0_darwin_arm64",
-          "URL": "https://github.com/Meepo-Lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_darwin_arm64",
+          "URL": "https://github.com/meepo-lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
           "Checksum": "de6aa742c397098266b5cb3672b030f5d32c2c26a5fddf1bb472d1a54a718612"
         },
         {
           "FileName": "condition-github_v1.5.0_linux_amd64",
-          "URL": "https://github.com/Meepo-Lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_amd64",
+          "URL": "https://github.com/meepo-lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
           "Checksum": "3bed2b02eb8f5c087db8e3b591c6ee4449906fb9ecf1f20a8887123c789c0747"
         },
         {
           "FileName": "condition-github_v1.5.0_linux_arm",
-          "URL": "https://github.com/Meepo-Lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_arm",
+          "URL": "https://github.com/meepo-lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
           "Checksum": "6aab20bec80713bdaafa0f3b4d9fe902cf51c48f24be9f93632bb12a5e444be6"
         },
         {
           "FileName": "condition-github_v1.5.0_linux_arm64",
-          "URL": "https://github.com/Meepo-Lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_arm64",
+          "URL": "https://github.com/meepo-lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
           "Checksum": "0fc30c5d24b0ff0658e240db2940b19167bc4373992efa9009e2379d9b17985b"
         },
         {
           "FileName": "condition-github_v1.5.0_windows_amd64.exe",
-          "URL": "https://github.com/Meepo-Lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_windows_amd64.exe",
+          "URL": "https://github.com/meepo-lab/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "e3352dfcc2319c86805549d6f4ac1dd073a4741a4d3c3fcd0b6ac24c172ce1c4"

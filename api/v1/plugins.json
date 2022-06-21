@@ -8,7 +8,6 @@
     "condition-gitlab",
     "condition-github",
     "files-updater-gradle",
-    "publisher-gradle",
-    "hooks-gradle-publisher"
+    "publisher-gradle"
   ]
 }

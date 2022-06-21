@@ -8,42 +8,42 @@
       "Assets": [
         {
           "FileName": "publisher-gradle_v1.0.0_darwin_amd64",
-          "URL": "https://github.com/Meepo-Lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_darwin_amd64",
+          "URL": "https://github.com/meepo-lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
           "Checksum": "a96c8db4550eaed857f20f25cf31f56f119644a175cf544ded7c56d4a79dd313"
         },
         {
           "FileName": "publisher-gradle_v1.0.0_darwin_arm64",
-          "URL": "https://github.com/Meepo-Lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_darwin_arm64",
+          "URL": "https://github.com/meepo-lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
           "Checksum": "b8277cfc0e5ff738c59535accb628475133c76a4ad4d6323b4c5d77c5890c802"
         },
         {
           "FileName": "publisher-gradle_v1.0.0_linux_amd64",
-          "URL": "https://github.com/Meepo-Lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_linux_amd64",
+          "URL": "https://github.com/meepo-lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
           "Checksum": "90c17165f8216b4e7c2ffed6d7e98159b9ad776003e32bdf58b17b246fc0e298"
         },
         {
           "FileName": "publisher-gradle_v1.0.0_linux_arm",
-          "URL": "https://github.com/Meepo-Lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_linux_arm",
+          "URL": "https://github.com/meepo-lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
           "Checksum": "2f2d4d3d8d1353d8acdfdca930afe9cb1d338791d460c40110586172c769df79"
         },
         {
           "FileName": "publisher-gradle_v1.0.0_linux_arm64",
-          "URL": "https://github.com/Meepo-Lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_linux_arm64",
+          "URL": "https://github.com/meepo-lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
           "Checksum": "9606c066e415844861e4ac37003274ca2075a57a44bc91e21f7b238b1ec91518"
         },
         {
           "FileName": "publisher-gradle_v1.0.0_windows_amd64.exe",
-          "URL": "https://github.com/Meepo-Lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_windows_amd64.exe",
+          "URL": "https://github.com/meepo-lab/publisher-gradle/releases/download/v1.0.0/publisher-gradle_v1.0.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "fb432ed39bcf45e0d6d3cc2f0cb04f5d3d2875da58b7877ca6c2f84ccbc84d63"
