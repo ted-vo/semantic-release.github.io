@@ -43,10 +43,5 @@
     "Type": "publisher",
     "Name": "gradle",
     "Repo": "meepo-lab/publisher-gradle"
-  },
-  {
-    "Type": "hooks",
-    "Name": "gradle-publisher",
-    "Repo": "meepo-lab/hooks-gradle-publisher"
   }
 ]
