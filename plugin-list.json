@@ -2,51 +2,51 @@
   {
     "Type": "provider",
     "Name": "git",
-    "Repo": "ted-vo/provider-git"
+    "Repo": "meepo-lab/provider-git"
   },
   {
     "Type": "provider",
     "Name": "gitlab",
-    "Repo": "ted-vo/provider-gitlab"
+    "Repo": "meepo-lab/provider-gitlab"
   },
   {
     "Type": "provider",
     "Name": "github",
-    "Repo": "ted-vo/provider-github"
+    "Repo": "meepo-lab/provider-github"
   },
   {
     "Type": "changelog-generator",
     "Name": "default",
-    "Repo": "ted-vo/changelog-generator-default"
+    "Repo": "meepo-lab/changelog-generator-default"
   },
   {
     "Type": "commit-analyzer",
     "Name": "default",
-    "Repo": "ted-vo/commit-analyzer-cz"
+    "Repo": "meepo-lab/commit-analyzer-cz"
   },
   {
     "Type": "condition",
     "Name": "gitlab",
-    "Repo": "ted-vo/condition-gitlab"
+    "Repo": "meepo-lab/condition-gitlab"
   },
   {
     "Type": "condition",
     "Name": "github",
-    "Repo": "ted-vo/condition-github"
+    "Repo": "meepo-lab/condition-github"
   },
   {
     "Type": "files-updater",
     "Name": "gradle",
-    "Repo": "ted-vo/files-updater-gradle"
+    "Repo": "meepo-lab/files-updater-gradle"
   },
   {
     "Type": "publisher",
     "Name": "gradle",
-    "Repo": "ted-vo/publisher-gradle"
+    "Repo": "meepo-lab/publisher-gradle"
   },
   {
     "Type": "hooks",
     "Name": "gradle-publisher",
-    "Repo": "ted-vo/hooks-gradle-publisher"
+    "Repo": "meepo-lab/hooks-gradle-publisher"
   }
 ]
