@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "git",
-  "LatestRelease": "2.0.1",
+  "LatestRelease": "2.0.0",
   "Versions": {
     "2.0.0": {
       "CreatedAt": "2022-05-17T09:47:32Z",
