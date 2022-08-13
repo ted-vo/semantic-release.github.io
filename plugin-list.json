@@ -43,5 +43,10 @@
     "Type": "publisher",
     "Name": "gradle",
     "Repo": "meepo-lab/publisher-gradle"
+  },
+  {
+    "Type": "hooks",
+    "Name": "telegram-bot",
+    "Repo": "meepo-lab/hooks-telegram-bot"
   }
 ]
