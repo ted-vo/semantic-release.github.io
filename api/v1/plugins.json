@@ -8,6 +8,7 @@
     "condition-gitlab",
     "condition-github",
     "files-updater-gradle",
-    "publisher-gradle"
+    "publisher-gradle",
+    "hooks-telegram-bot"
   ]
 }
