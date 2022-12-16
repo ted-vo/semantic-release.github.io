@@ -97,6 +97,53 @@
         }
       ]
     },
+    "1.0.2": {
+      "CreatedAt": "2022-08-13T08:57:06Z",
+      "Assets": [
+        {
+          "FileName": "hooks-telegram-bot_v1.0.2_darwin_amd64",
+          "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.2/hooks-telegram-bot_v1.0.2_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "fe28696893450a7f3a4376dbf70b82b2de05e5d7ba96d5c83c43b65108e4b698"
+        },
+        {
+          "FileName": "hooks-telegram-bot_v1.0.2_darwin_arm64",
+          "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.2/hooks-telegram-bot_v1.0.2_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "f040b3da7f3f6ecad0397c75e56178febc472496a9e301db4631dcfe48659cd4"
+        },
+        {
+          "FileName": "hooks-telegram-bot_v1.0.2_linux_amd64",
+          "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.2/hooks-telegram-bot_v1.0.2_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "1d6ccefcb4948e64e05bb5ae5e5d745a344e02f2179cff1984516bc8ff31700c"
+        },
+        {
+          "FileName": "hooks-telegram-bot_v1.0.2_linux_arm",
+          "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.2/hooks-telegram-bot_v1.0.2_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "d2996b8d94cd062e5373f8ec6266813e6bae799d800a3a34fa3a04315e5edde8"
+        },
+        {
+          "FileName": "hooks-telegram-bot_v1.0.2_linux_arm64",
+          "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.2/hooks-telegram-bot_v1.0.2_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "2f8e88c8bdddcead165c6816ee9fb79625dad6a5fb2dadc98d59af330747eacd"
+        },
+        {
+          "FileName": "hooks-telegram-bot_v1.0.2_windows_amd64.exe",
+          "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.2/hooks-telegram-bot_v1.0.2_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "971fcb2eadfa847c949df5cd530473b6b9bf55482f9e1a9df940191e3ef2df66"
+        }
+      ]
+    },
     "1.0.3": {
       "CreatedAt": "2022-08-15T07:20:32Z",
       "Assets": [
@@ -152,42 +199,42 @@
           "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.4/hooks-telegram-bot_v1.0.4_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "184d0dfd85791ddfd551ac8063c660d697400c2a45b105e1e4f51c0262b96186"
         },
         {
           "FileName": "hooks-telegram-bot_v1.0.4_darwin_arm64",
           "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.4/hooks-telegram-bot_v1.0.4_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "73694253ddb212299d78785723839d0599bd7df9cc482bda91b6a152ab8951d1"
         },
         {
           "FileName": "hooks-telegram-bot_v1.0.4_linux_amd64",
           "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.4/hooks-telegram-bot_v1.0.4_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "00dfbb96b56882128b810112571dc43cf10a05f047e720b688dcbb89ec71b277"
         },
         {
           "FileName": "hooks-telegram-bot_v1.0.4_linux_arm",
           "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.4/hooks-telegram-bot_v1.0.4_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "11472dd455793919da87477cfc5efd616a97f38716e6b70b5e6a191fd9a6c09c"
         },
         {
           "FileName": "hooks-telegram-bot_v1.0.4_linux_arm64",
           "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.4/hooks-telegram-bot_v1.0.4_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "40d7ec358427f810926af938b4c38d2796f4a96f5af1ef868aa2d09c6777dbef"
         },
         {
           "FileName": "hooks-telegram-bot_v1.0.4_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/hooks-telegram-bot/releases/download/v1.0.4/hooks-telegram-bot_v1.0.4_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "225cb9c03e40c444e4011ecf301bc0866033ae76fbc0bbfc1c8865ae73532083"
         }
       ]
     },
