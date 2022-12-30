@@ -575,42 +575,42 @@
           "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.4.0/files-updater-gradle_v1.4.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "a3a57431fca3d6a3fa0d79da789ee891dd2d862f3c49c82bd41f617076b7c140"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.4.0_darwin_arm64",
           "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.4.0/files-updater-gradle_v1.4.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "a8d365da65446690f1d20df447dbdd0b9c7d0d6f4a0d4162c749a587c4fd46e1"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.4.0_linux_amd64",
           "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.4.0/files-updater-gradle_v1.4.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "c0555c581e78e83445d0c76b9236f00567fa122df5bde3e10856df7e312eb12e"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.4.0_linux_arm",
           "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.4.0/files-updater-gradle_v1.4.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "a72ba7bfb5dc4d866e1a41d5587e9b853bffeb74f81c473d674d17084070a0e8"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.4.0_linux_arm64",
           "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.4.0/files-updater-gradle_v1.4.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "18f6dd56a91c606be1e8cad69ca3a1512f988242a1c559a6a39d289c3f4700ef"
+          "Checksum": ""
         },
         {
           "FileName": "files-updater-gradle_v1.4.0_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.4.0/files-updater-gradle_v1.4.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "7364e907909aca04388006b246ab928207249a410d6901a34d94b0ec9bd8853e"
+          "Checksum": ""
         }
       ]
     }
