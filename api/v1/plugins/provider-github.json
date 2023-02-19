@@ -11,42 +11,42 @@
           "URL": "https://github.com/meepo-lab/provider-github/releases/download/v1.9.0/provider-github_v1.9.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "1234cd6a09130f049705c15e3effdb52aacee98b91907ba3cfe643b29428475b"
         },
         {
           "FileName": "provider-github_v1.9.0_darwin_arm64",
           "URL": "https://github.com/meepo-lab/provider-github/releases/download/v1.9.0/provider-github_v1.9.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "c91a8c4719e6a9788a4486b2c96c7da88ffe98019cde8613c4274890b28283b7"
         },
         {
           "FileName": "provider-github_v1.9.0_linux_amd64",
           "URL": "https://github.com/meepo-lab/provider-github/releases/download/v1.9.0/provider-github_v1.9.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "908257c79ae6943332d1f16b71b59415771e44c982531444bd8bc21753253b73"
         },
         {
           "FileName": "provider-github_v1.9.0_linux_arm",
           "URL": "https://github.com/meepo-lab/provider-github/releases/download/v1.9.0/provider-github_v1.9.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "9aaf9006f576026c8698f5898a533161cb2489bd32e002037c381b263e78f684"
         },
         {
           "FileName": "provider-github_v1.9.0_linux_arm64",
           "URL": "https://github.com/meepo-lab/provider-github/releases/download/v1.9.0/provider-github_v1.9.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "ba5ac86db4ceda8746d304a5eb3a392099e32fd0f41f712774c1f10213b0c8d5"
         },
         {
           "FileName": "provider-github_v1.9.0_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/provider-github/releases/download/v1.9.0/provider-github_v1.9.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "96ea91dc41603bf1a0c81e35811c1ddb03e5694a91c9ed1970bc9bcb6915d5b0"
         }
       ]
     }
