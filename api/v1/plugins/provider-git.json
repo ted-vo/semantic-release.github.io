@@ -11,42 +11,42 @@
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "5253a849e975daf37e4641c27d8360efbcaeb5db5e7056a6a2e5f0cdd5343db5"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_darwin_arm64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "16ecbef3ff1a9c4b52afcdf89c309397b8004ac5e2c673d967731a8283b2a067"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_linux_amd64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "2f7660392bb1afcc1d7bba6097d38ef24772dcf0dfa5c154b89d33322cd6a0f0"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_linux_arm",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "e6bf64afeb57225f410e5ff201893b522ee0d2b4ae183a20413d637151eecc09"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_linux_arm64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "9aa6b3820a0a857085e842d8eb869f6cdb1aa566a0d6d8a7afbdffb30f05a836"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.0_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.0/provider-git_v2.0.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "265f7c4974e62cee70ac56914708f2b5f2d83e4d5cbacc0f07a757e7b674bede"
+          "Checksum": ""
         }
       ]
     },
@@ -58,42 +58,42 @@
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "38674823954f8453be13a8554480f15c7e67f5e989fd67c5fa84f9cf09fb45c4"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.1_darwin_arm64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "f503710015f7df5da2b28d1279abe93389d9649794c9089474da8354057b9c64"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.1_linux_amd64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "9e845f0b659cb4fe14e04261cd2ea6b3a3911744292bbdf946b6d9a530629921"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.1_linux_arm",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "37d32d86e7769c2c234bbf37bdf07495125b4e536cb177a895814bd8a8c24466"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.1_linux_arm64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "410c0ff3e55b22c1846cb5eba3b805921e46bd7af8a3f520f0c770be867f1936"
+          "Checksum": ""
         },
         {
           "FileName": "provider-git_v2.0.1_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "608e288e85f44f6033cdc3449b23f73942d86a5aa5de022f9a2a0f9c6f516eeb"
+          "Checksum": ""
         }
       ]
     }
