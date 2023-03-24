@@ -11,42 +11,42 @@
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "bc9d8be668cad25448622bc094d0ffc58d7946b5aa3fc904a511e8cf77140b65"
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_darwin_arm64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "9c24904c8146d849b4cf63c71f9d8e1eac8c79dc7e52a0c16652f2f863bbbc24"
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_linux_amd64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "b77a700191268be2d70be9c074fac67aaec3f66a0375da8be95c6fc407e1a48f"
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_linux_arm",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "61b40e8eb685ad11b42f08d9661e0d5cc9deaa510aea9cb7fe735253e964b12d"
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_linux_arm64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "61a64f759156a59d443496cc6c886f84b9ac327ee47c076ddf424527b83d633e"
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "bf94ed0d96ec5b5ff6ff0e024285387bff3dfa045e17d8137273ff9110c17b68"
         }
       ]
     },
@@ -58,42 +58,42 @@
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "f8cf7a346dbd8227c6eb2b5cbdd229f64453fd0a3a1972787a6db5b20d64b91a"
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_darwin_arm64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "6ff60580af95bedcf6d81bc4395d1ed5935c4027ad2a738d5beb38cfd469aadb"
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_linux_amd64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "af5cc3aff05679294587d152c209c05c0233cbaca3b7cfa671c21c1db308577f"
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_linux_arm",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "e7c85e41ca9b03f2c3062e3c41b3cd53ecb6f2054c2a7d426814a202322c1b0c"
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_linux_arm64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "f85c30c9913a2d7c807fbbff234cd8efe42d77fc25565d3c9b3676463ab64cd7"
         },
         {
           "FileName": "changelog-generator-default_v1.8.1_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.8.1/changelog-generator-default_v1.8.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "8c3c17dcccd8f3543fa433c13d01407e7d55a82d7a3c87b10463f25219d27d43"
         }
       ]
     },
@@ -105,42 +105,42 @@
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "f7eb480c31e42deeef5aabf5d57c61335eea1e9dfe498752f7629685cc608354"
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_darwin_arm64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "aefd804ba4e3d7801db121d60a7965894117ba4ff247516fb0b2bcc3fb2114dc"
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_linux_amd64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "5efb42f8a9d39d8590bca814abb58851d1efad2a6d4378319fddfe23676fb061"
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_linux_arm",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "bdd7d758914343835b48d32855f35938492f6cda93e9d3adabf98b8629efadf1"
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_linux_arm64",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "376a127f3ab6e417edebb193117689847b6ddc1e75ba78a8e87088be1ae0d708"
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "d6ce902bb5f9c8f4852e2e376f8751833b2f4ef55a0449f2647c08b42dc7eaca"
         }
       ]
     }
