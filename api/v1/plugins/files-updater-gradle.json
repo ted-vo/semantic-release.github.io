@@ -97,6 +97,53 @@
         }
       ]
     },
+    "1.0.2": {
+      "CreatedAt": "2022-05-06T09:27:35Z",
+      "Assets": [
+        {
+          "FileName": "files-updater-gradle_v1.0.2_darwin_amd64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.0.2/files-updater-gradle_v1.0.2_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "2de439bf2e3a63d80a7e0f7f6ab613e3c4491ecb7e94f6f46a3ec9720e88d149"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.0.2_darwin_arm64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.0.2/files-updater-gradle_v1.0.2_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "9049a98b65575f5f561b5f901489c31d46a635d2d033907dc08e264340f02a4d"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.0.2_linux_amd64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.0.2/files-updater-gradle_v1.0.2_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "f7fc89903d3d9a8086971ec7a9d408167c318cda27d02d763b8c474605077f98"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.0.2_linux_arm",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.0.2/files-updater-gradle_v1.0.2_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "3308c54e3b2baada7ec1472d9ae0ecdece77376e9b38d11b35621ac6bd1366a4"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.0.2_linux_arm64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.0.2/files-updater-gradle_v1.0.2_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "935611b58c689bf8918cc21feb9ed4c5b612dd2d7c30f9fca8453c7ffbc711cc"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.0.2_windows_amd64.exe",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.0.2/files-updater-gradle_v1.0.2_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "1c43e5d9392c828e3eaed7d8ddb2e0c7039f3d6fe6f5b212e85aeadab7bb0c48"
+        }
+      ]
+    },
     "1.1.0": {
       "CreatedAt": "2022-05-09T07:16:31Z",
       "Assets": [
@@ -376,6 +423,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "2e6ee81af62b87fd8c1b656c4077dead242f6ac2e446d2cb0193bc1cbde5100b"
+        }
+      ]
+    },
+    "1.3.1": {
+      "CreatedAt": "2022-06-21T03:11:27Z",
+      "Assets": [
+        {
+          "FileName": "files-updater-gradle_v1.3.1_darwin_amd64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.3.1/files-updater-gradle_v1.3.1_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "cdbd5b0635ceb9606f493d42bfbed84473aba58340e3d5658506c0dbffcfd91e"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.3.1_darwin_arm64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.3.1/files-updater-gradle_v1.3.1_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "79e4ad5a3b6399ce6ef1402d95f348a3292b7bb61935d66788f74cd1cd58f0d5"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.3.1_linux_amd64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.3.1/files-updater-gradle_v1.3.1_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "eefabb203f740504e3a9faa65ce518c6cfb3989ac25edc3b7d1b72f1c2901ca0"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.3.1_linux_arm",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.3.1/files-updater-gradle_v1.3.1_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "5e989a8f5852b1973f72e8ef868f96597a02d664ff4e5e097adbb6b94f309876"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.3.1_linux_arm64",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.3.1/files-updater-gradle_v1.3.1_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "f6006e0bc4ceaa8022cf74b9c5fda75099efec3765fd16df0c4aa16d06f0bc43"
+        },
+        {
+          "FileName": "files-updater-gradle_v1.3.1_windows_amd64.exe",
+          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.3.1/files-updater-gradle_v1.3.1_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "6302118efd3772d655a58b7b7fe2ebf9e102f2bd751af7c27d7855edf26d5d75"
         }
       ]
     },
