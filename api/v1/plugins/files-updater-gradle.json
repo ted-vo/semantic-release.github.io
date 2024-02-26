@@ -144,53 +144,6 @@
         }
       ]
     },
-    "1.1.0": {
-      "CreatedAt": "2022-05-09T07:16:31Z",
-      "Assets": [
-        {
-          "FileName": "files-updater-gradle_v1.1.0_darwin_amd64",
-          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.1.0/files-updater-gradle_v1.1.0_darwin_amd64",
-          "OS": "darwin",
-          "Arch": "amd64",
-          "Checksum": "9fcdb9e745b6af83b0cb1b4b9dfa7ec9649d3f8870c56e4d2cfbf80c2fd5e8e9"
-        },
-        {
-          "FileName": "files-updater-gradle_v1.1.0_darwin_arm64",
-          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.1.0/files-updater-gradle_v1.1.0_darwin_arm64",
-          "OS": "darwin",
-          "Arch": "arm64",
-          "Checksum": "cb1a5c7aad8585459d75fc32a79157ce86ea55e47b83f4a20fc766fede59bb92"
-        },
-        {
-          "FileName": "files-updater-gradle_v1.1.0_linux_amd64",
-          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.1.0/files-updater-gradle_v1.1.0_linux_amd64",
-          "OS": "linux",
-          "Arch": "amd64",
-          "Checksum": "e55a151246941757aa96cb6cebc8591e38cc3b0bd84e565785baab55e6c64e52"
-        },
-        {
-          "FileName": "files-updater-gradle_v1.1.0_linux_arm",
-          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.1.0/files-updater-gradle_v1.1.0_linux_arm",
-          "OS": "linux",
-          "Arch": "arm",
-          "Checksum": "a73b910c6d4b1427e3ab373d58a4c9060636c413d020fd5389dcd097abfd0e3f"
-        },
-        {
-          "FileName": "files-updater-gradle_v1.1.0_linux_arm64",
-          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.1.0/files-updater-gradle_v1.1.0_linux_arm64",
-          "OS": "linux",
-          "Arch": "arm64",
-          "Checksum": "96a60b89451fd67edcde7bb9c48f86f19735e334381399c575ca413afcfd296f"
-        },
-        {
-          "FileName": "files-updater-gradle_v1.1.0_windows_amd64.exe",
-          "URL": "https://github.com/meepo-lab/files-updater-gradle/releases/download/v1.1.0/files-updater-gradle_v1.1.0_windows_amd64.exe",
-          "OS": "windows",
-          "Arch": "amd64",
-          "Checksum": "a10e1ffbeedeac69f37a690cdc57ebd68460e44fd145a3d2c246e9efe536d327"
-        }
-      ]
-    },
     "1.1.1": {
       "CreatedAt": "2022-05-10T04:25:06Z",
       "Assets": [
