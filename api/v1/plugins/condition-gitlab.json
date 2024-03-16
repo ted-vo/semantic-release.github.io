@@ -11,42 +11,42 @@
           "URL": "https://github.com/meepo-lab/condition-gitlab/releases/download/v2.0.0/condition-gitlab_v2.0.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "04784ecb538ce01c8ae6694d772eefaa0c4596fc643592f8c4b28936c69764ec"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v2.0.0_darwin_arm64",
           "URL": "https://github.com/meepo-lab/condition-gitlab/releases/download/v2.0.0/condition-gitlab_v2.0.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "4e84dd7ed7aecaa086dd5eb0f7efd5a843f9264c4481f6e27263aba9c747625f"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v2.0.0_linux_amd64",
           "URL": "https://github.com/meepo-lab/condition-gitlab/releases/download/v2.0.0/condition-gitlab_v2.0.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "f2a6325c54da8305268c2b12694a0b57fa22ef848297cce199bea346f6844e02"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v2.0.0_linux_arm",
           "URL": "https://github.com/meepo-lab/condition-gitlab/releases/download/v2.0.0/condition-gitlab_v2.0.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "c7daabe932a5ba7514a8509616235bd4521b3d26d265d89438d2b285045b37ed"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v2.0.0_linux_arm64",
           "URL": "https://github.com/meepo-lab/condition-gitlab/releases/download/v2.0.0/condition-gitlab_v2.0.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "5fd9951ede35a9830f0f7de4239bf924ee50eba36187e043f32cc57da20058e9"
+          "Checksum": ""
         },
         {
           "FileName": "condition-gitlab_v2.0.0_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/condition-gitlab/releases/download/v2.0.0/condition-gitlab_v2.0.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "27b2f4092dd8b9444ec54d36ae3eae911092cbf804c7df87ca42cdd63ed264fc"
+          "Checksum": ""
         }
       ]
     }
