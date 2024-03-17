@@ -58,42 +58,42 @@
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "38674823954f8453be13a8554480f15c7e67f5e989fd67c5fa84f9cf09fb45c4"
         },
         {
           "FileName": "provider-git_v2.0.1_darwin_arm64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "f503710015f7df5da2b28d1279abe93389d9649794c9089474da8354057b9c64"
         },
         {
           "FileName": "provider-git_v2.0.1_linux_amd64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "9e845f0b659cb4fe14e04261cd2ea6b3a3911744292bbdf946b6d9a530629921"
         },
         {
           "FileName": "provider-git_v2.0.1_linux_arm",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "37d32d86e7769c2c234bbf37bdf07495125b4e536cb177a895814bd8a8c24466"
         },
         {
           "FileName": "provider-git_v2.0.1_linux_arm64",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "410c0ff3e55b22c1846cb5eba3b805921e46bd7af8a3f520f0c770be867f1936"
         },
         {
           "FileName": "provider-git_v2.0.1_windows_amd64.exe",
           "URL": "https://github.com/meepo-lab/provider-git/releases/download/v2.0.1/provider-git_v2.0.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "608e288e85f44f6033cdc3449b23f73942d86a5aa5de022f9a2a0f9c6f516eeb"
         }
       ]
     }
